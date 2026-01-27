@@ -27,7 +27,7 @@ const ShareButton = forwardRef(({ recipe }, ref) => {
     }
   }, [showMenu])
 
-  const shareUrl = `${window.location.origin}/coctel/${recipe.slug}`
+  const shareUrl = `${window.location.origin}/#/coctel/${recipe.slug}`
   const shareText = `${recipe.name} - ${recipe.description}`
 
   const handleCopyRecipe = async () => {
