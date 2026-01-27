@@ -1,0 +1,212 @@
+[
+  {
+    "id": "vodka",
+    "label": "Vodka",
+    "type": "destilado",
+    "description": "Base neutra y versátil, ideal para cócteles clásicos y modernos.",
+    "icon": "🍸"
+  },
+  {
+    "id": "gin",
+    "label": "Gin",
+    "type": "destilado",
+    "description": "Destilado aromático a base de botánicos, fresco y herbal.",
+    "icon": "🌿"
+  },
+  {
+    "id": "ron",
+    "label": "Ron",
+    "type": "destilado",
+    "description": "Destilado de caña, dulce y tropical.",
+    "icon": "🥃"
+  },
+  {
+    "id": "whisky",
+    "label": "Whisky",
+    "type": "destilado",
+    "description": "Intenso y complejo, con notas de madera y cereal.",
+    "icon": "🥃"
+  },
+  {
+    "id": "tequila",
+    "label": "Tequila",
+    "type": "destilado",
+    "description": "Destilado mexicano de agave, potente y expresivo.",
+    "icon": "🌵"
+  },
+  {
+    "id": "pisco",
+    "label": "Pisco",
+    "type": "destilado",
+    "description": "Destilado de uva, base de cócteles sudamericanos.",
+    "icon": "🍹"
+  },
+  {
+    "id": "cachaça",
+    "label": "Cachaça",
+    "type": "destilado",
+    "description": "Destilado brasileño de caña de azúcar.",
+    "icon": "🇧🇷"
+  },
+  {
+    "id": "aguardiente",
+    "label": "Aguardiente",
+    "type": "destilado",
+    "description": "Destilado tradicional de alta graduación alcohólica.",
+    "icon": "🔥"
+  },
+  {
+    "id": "jagermeister",
+    "label": "Jägermeister",
+    "type": "licor",
+    "description": "Licor herbal alemán, intenso y especiado.",
+    "icon": "🦌"
+  },
+  {
+    "id": "aperol",
+    "label": "Aperol",
+    "type": "licor",
+    "description": "Aperitivo italiano amargo-suave, base de spritz.",
+    "icon": "🍊"
+  },
+  {
+    "id": "campari",
+    "label": "Campari",
+    "type": "licor",
+    "description": "Licor amargo italiano, intenso y aromático.",
+    "icon": "🍊"
+  },
+  {
+    "id": "limoncello",
+    "label": "Limoncello",
+    "type": "licor",
+    "description": "Licor italiano de limón, dulce y cítrico.",
+    "icon": "🍋"
+  },
+  {
+    "id": "amaretto",
+    "label": "Amaretto",
+    "type": "licor",
+    "description": "Licor dulce con notas de almendra.",
+    "icon": "🌰"
+  },
+  {
+    "id": "mezcal",
+    "label": "Mezcal",
+    "type": "destilado",
+    "description": "Agave con notas ahumadas y complejas.",
+    "icon": "🔥"
+  },
+  {
+    "id": "st-germain",
+    "label": "St‑Germain",
+    "type": "licor",
+    "description": "Licor floral de flor de saúco.",
+    "icon": "🌸"
+  },
+  {
+    "id": "ramazzotti",
+    "label": "Ramazzotti",
+    "type": "licor",
+    "description": "Amaro italiano, herbal y complejo.",
+    "icon": "🌿"
+  },
+  {
+    "id": "fernet",
+    "label": "Fernet",
+    "type": "licor",
+    "description": "Licor amargo y herbal de alta intensidad.",
+    "icon": "🖤"
+  },
+  {
+    "id": "vermut",
+    "label": "Vermut",
+    "type": "vino fortificado",
+    "description": "Vino aromatizado, base de aperitivos clásicos.",
+    "icon": "🍷"
+  },
+  {
+    "id": "brandy",
+    "label": "Brandy",
+    "type": "brandy",
+    "description": "Destilado de vino, a menudo con notas amaderadas y dulces.",
+    "icon": "🍷"
+  },
+  {
+    "id": "espumante",
+    "label": "Espumante",
+    "type": "vino",
+    "description": "Burbujas para cócteles festivos y ligeros.",
+    "icon": "🥂"
+  },
+  {
+    "id": "cognac",
+    "label": "Cognac",
+    "type": "destilado",
+    "description": "Brandy francés elegante y complejo.",
+    "icon": "🍷"
+  },
+  {
+    "id": "vino",
+    "label": "Vino",
+    "type": "vino",
+    "description": "Base vínica general para preparaciones mixtas.",
+    "icon": "🍷"
+  },
+  {
+    "id": "vino-blanco",
+    "label": "Vino Blanco",
+    "type": "vino",
+    "description": "Ligero y refrescante, ideal para tragos de día.",
+    "icon": "🥂"
+  },
+  {
+    "id": "vino-tinto",
+    "label": "Vino Tinto",
+    "type": "vino",
+    "description": "Base robusta para mezclas tradicionales.",
+    "icon": "🍷"
+  },
+  {
+    "id": "vino-licor",
+    "label": "Vino Licor",
+    "type": "vino fortificado",
+    "description": "Vinos dulces o fortificados usados en coctelería.",
+    "icon": "🍷"
+  },
+  {
+    "id": "cerveza",
+    "label": "Cerveza",
+    "type": "fermentado",
+    "description": "Base refrescante para tragos preparados.",
+    "icon": "🍺"
+  },
+  {
+    "id": "chicha",
+    "label": "Chicha",
+    "type": "fermentado",
+    "description": "Bebida tradicional fermentada.",
+    "icon": "🍎"
+  },
+  {
+    "id": "café",
+    "label": "Café",
+    "type": "infusión",
+    "description": "Base estimulante para cócteles nocturnos o de sobremesa.",
+    "icon": "☕"
+  },
+  {
+    "id": "licor",
+    "label": "Licor",
+    "type": "licor",
+    "description": "Base y bebida espirituosa aromática y dulce.",
+    "icon": "🍷"
+  },
+  {
+    "id": "baileys",
+    "label": "Baileys",
+    "type": "baileys",
+    "description": "Crema a base de whisky irlandés y leche, con notas de vainilla o cacao.",
+    "icon": "🍷"
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "id": "refrescante",
+    "label": "Refrescante",
+    "description": "Ligero, frío y fácil de beber.",
+    "icon": "❄️"
+  },
+  {
+    "id": "tropical",
+    "label": "Tropical",
+    "description": "Sabores frutales y exóticos.",
+    "icon": "🌴"
+  },
+  {
+    "id": "herbal",
+    "label": "Herbal",
+    "description": "Notas de hierbas, botánicos o amargos.",
+    "icon": "🌿"
+  },
+  {
+    "id": "especiado",
+    "label": "Especiado",
+    "description": "Presencia de especias cálidas o picantes.",
+    "icon": "🌶️"
+  },
+  {
+    "id": "aromático",
+    "label": "Aromático",
+    "description": "Perfil fragante y expresivo.",
+    "icon": "🌸"
+  },
+  {
+    "id": "energético",
+    "label": "Energético",
+    "description": "Tragos estimulantes.",
+    "icon": "⚡"
+  },
+  {
+    "id": "intenso",
+    "label": "Intenso",
+    "description": "Sabores fuertes y alcohólicos.",
+    "icon": "🔥"
+  },
+  {
+    "id": "amargo",
+    "label": "Amargo",
+    "description": "Perfil seco o amargo, tipo aperitivo.",
+    "icon": "🍊"
+  },
+  {
+    "id": "dulce",
+    "label": "Dulce",
+    "description": "Perfil azucarado y amable.",
+    "icon": "🍬"
+  },
+  {
+    "id": "frutal",
+    "label": "Frutal",
+    "description": "Protagonismo de frutas o jugos.",
+    "icon": "🍓"
+  },
+  {
+    "id": "cremoso",
+    "label": "Cremoso",
+    "description": "Textura espesa, tipo postre.",
+    "icon": "🥛"
+  },
+  {
+    "id": "postre",
+    "label": "Postre / Sobremesa",
+    "description": "Ideal para cerrar una comida.",
+    "icon": "🍰"
+  },
+  {
+    "id": "café",
+    "label": "Café",
+    "description": "Tragos con café o licor de café.",
+    "icon": "☕"
+  },
+  {
+    "id": "chocolate",
+    "label": "Chocolate",
+    "description": "Perfil dulce con cacao o chocolate.",
+    "icon": "🍫"
+  },
+  {
+    "id": "clásico",
+    "label": "Clásico",
+    "description": "Cócteles tradicionales y reconocidos.",
+    "icon": "⭐"
+  },
+  {
+    "id": "simple",
+    "label": "Simple",
+    "description": "Pocos ingredientes y preparación directa.",
+    "icon": "👌"
+  },
+  {
+    "id": "elegante",
+    "label": "Elegante",
+    "description": "Perfil refinado, ideal para aperitivo.",
+    "icon": "🥂"
+  },
+  {
+    "id": "fiesta",
+    "label": "Fiesta",
+    "description": "Pensado para contextos sociales y nocturnos.",
+    "icon": "🎉"
+  },
+  {
+    "id": "social",
+    "label": "Social",
+    "description": "Ideal para compartir y encuentros.",
+    "icon": "🗣️"
+  },
+  {
+    "id": "floral",
+    "label": "Floral",
+    "description": "Notas delicadas y perfumadas.",
+    "icon": "🌼"
+  },
+  {
+    "id": "cítrico",
+    "label": "Cítrico",
+    "description": "Perfil ácido y refrescante.",
+    "icon": "🍋"
+  },
+  {
+    "id": "suave",
+    "label": "Suave",
+    "description": "De cuerpo ligero y baja agresividad alcohólica.",
+    "icon": "🫧"
+  },
+  {
+    "id": "tradicional",
+    "label": "Tradicional",
+    "description": "Inspirado en recetas históricas o locales.",
+    "icon": "🏺"
+  },
+  {
+    "id": "versátil",
+    "label": "Versátil",
+    "description": "Adaptable a distintos contextos.",
+    "icon": "🔁"
+  },
+  {
+    "id": "visual",
+    "label": "Visual",
+    "description": "Estéticamente llamativo.",
+    "icon": "👁️"
+  },
+  {
+    "id": "seco",
+    "label": "Seco",
+    "description": "Sin dulzor o contenido de azúcar muy bajo.",
+    "icon": "🌵"
+  },
+  {
+    "id": "salado",
+    "label": "Salado",
+    "description": "Notas salinas o uso de sal como realzador.",
+    "icon": "🧂"
+  },
+  {
+    "id": "picante",
+    "label": "Picante",
+    "description": "Característica de sensación de ardor.",
+    "icon": "🌶️"
+  },
+  {
+    "id": "caliente",
+    "label": "Caliente",
+    "description": "Servido a alta temperatura, ideal para el frío.",
+    "icon": "🔥"
+  },
+  {
+    "id": "burbujeante",
+    "label": "Burbujeante",
+    "description": "Textura con efervescencia o gas.",
+    "icon": "🫧"
+  },
+  {
+    "id": "sedoso",
+    "label": "Sedoso",
+    "description": "Textura en boca muy suave y pulida.",
+    "icon": "🧵"
+  },
+  {
+    "id": "ácido",
+    "label": "Ácido",
+    "description": "Alto contenido de acidez o agrio.",
+    "icon": "🍋"
+  },
+  {
+    "id": "contundente",
+    "label": "Contundente",
+    "description": "De gran cuerpo y sabor muy presente.",
+    "icon": "🧱"
+  },
+  {
+    "id": "audaz",
+    "label": "Audaz",
+    "description": "Perfil de sabor atrevido y memorable.",
+    "icon": "🦁"
+  },
+  {
+    "id": "exótico",
+    "label": "Exótico",
+    "description": "Ingredientes o combinaciones inusuales y novedosas.",
+    "icon": "🗺️"
+  },
+  {
+    "id": "reconfortante",
+    "label": "Reconfortante",
+    "description": "Sensación cálida y agradable, nostálgica.",
+    "icon": "🧣"
+  },
+  {
+    "id": "sabroso",
+    "label": "Sabroso",
+    "description": "Delicioso y con gran profundidad de sabor.",
+    "icon": "😋"
+  },
+  {
+    "id": "personalizado",
+    "label": "Personalizado",
+    "description": "A medida según las preferencias individuales.",
+    "icon": "🛠️"
+  },
+  {
+    "id": "ligero",
+    "label": "Ligero",
+    "description": "Bajo en calorías o con un cuerpo muy sutil.",
+    "icon": "🪶"
+  },
+  {
+    "id": "fuerte",
+    "label": "Fuerte",
+    "description": "Alto contenido alcohólico o sabor dominante.",
+    "icon": "💪"
+  }
+]

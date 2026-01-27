@@ -1,0 +1,159 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Brindisi Data Schema",
+  "description": "Schema de validaci\u00f3n para los datos de la app Brindisi",
+  "definitions": {
+    "Recipe": {
+      "type": "object",
+      "required": [
+        "id",
+        "slug",
+        "name",
+        "description",
+        "baseIngredient",
+        "servings",
+        "idealFor",
+        "characteristics",
+        "ingredients",
+        "preparation"
+      ],
+      "properties": {
+        "id": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "slug": {
+          "type": "string",
+          "pattern": "^[a-z0-9-]+$"
+        },
+        "name": {
+          "type": "string",
+          "minLength": 1
+        },
+        "photo": {
+          "type": "object",
+          "properties": {
+            "type": {
+              "type": "string"
+            },
+            "description": {
+              "type": "string"
+            }
+          }
+        },
+        "description": {
+          "type": "string",
+          "minLength": 1
+        },
+        "baseIngredient": {
+          "type": "string"
+        },
+        "servings": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "idealFor": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "characteristics": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "ingredients": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "minItems": 1
+        },
+        "preparation": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "minItems": 1
+        }
+      }
+    },
+    "Ingredient": {
+      "type": "object",
+      "required": [
+        "id",
+        "label",
+        "type",
+        "description"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[a-z0-9-]+$"
+        },
+        "label": {
+          "type": "string",
+          "minLength": 1
+        },
+        "type": {
+          "type": "string",
+          "enum": [
+            "destilado",
+            "licor",
+            "vino fortificado",
+            "vino",
+            "fermentado",
+            "infusi\u00f3n",
+            "otro"
+          ]
+        },
+        "description": {
+          "type": "string"
+        }
+      }
+    },
+    "Characteristic": {
+      "type": "object",
+      "required": [
+        "id",
+        "label",
+        "description"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[a-z0-9-]+$"
+        },
+        "label": {
+          "type": "string",
+          "minLength": 1
+        },
+        "description": {
+          "type": "string"
+        }
+      }
+    }
+  },
+  "properties": {
+    "recipes": {
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/Recipe"
+      }
+    },
+    "ingredients": {
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/Ingredient"
+      }
+    },
+    "characteristics": {
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/Characteristic"
+      }
+    }
+  }
+}
