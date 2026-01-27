@@ -56,7 +56,8 @@ ${recipe.ingredients.map((ing, i) => `${i + 1}. ${ing.charAt(0).toUpperCase() + 
 👨‍🍳 PREPARACIÓN
 ${recipe.preparation.map((step, i) => `${i + 1}. ${step}`).join('\n')}
 
-🍹 Receta desde Brindisi`
+🍹 Receta desde Brindisi:
+${shareUrl}`
 
       await navigator.clipboard.writeText(recipeText)
       setCopied(true)
