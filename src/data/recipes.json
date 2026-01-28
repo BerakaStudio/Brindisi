@@ -1292,36 +1292,35 @@
     },
     {
         "id": 39,
-        "slug": "licor-sour",
-        "name": "Licor Sour",
-        "description": "Versión genérica tipo sour.",
-        "baseIngredient": "licor",
+        "slug": "melon-vino",
+        "name": "Melón con Vino",
+        "description": "Trago típico chileno, muy veraniego.",
+        "baseIngredient": "vino",
         "servings": 1,
         "idealFor": [
-            "sobremesa"
+            "verano"
         ],
         "characteristics": [
-            "cítrico",
-            "suave",
+            "frutal",
             "clásico"
         ],
         "ingredients": [
-            "60 ml licor base",
-            "30 ml jugo de limón",
-            "20 ml jarabe simple",
-            "20 ml clara de huevo"
+            "1 melón tuna maduro",
+            "500 ml vino blanco",
+            "3 cucharadas azúcar"
         ],
         "preparation": [
-            "Dry shake para espumar.",
-            "Agregar hielo y agitar fuerte.",
-            "Colar y servir."
+            "Cortar el melón en forma de tapa.",
+            "Ahuecar su interior y reservar.",
+            "Colar las semillas.",
+            "Reservar el jugo y la pulpa.",
+            "Mezclar pulpa con el jugo, azúcar y vino blanco.",
+            "Colar mezcla y verter en el interior del melón.",
+            "Agregamos trozos de melón para decorar",
+            "Agregar bombilla y servir."
         ],
         "supplies": [
-            "Coctelera Boston",
-            "Colador Hawthorne",
-            "Copa coupe",
-            "Jigger",
-            "Exprimidor de cítricos"
+            "Bombilla"
         ]
     },
     {
@@ -1483,97 +1482,91 @@
     },
     {
         "id": 45,
-        "slug": "licor-old-fashioned",
-        "name": "Licor Old Fashioned",
-        "description": "Old fashioned adaptado a licor base.",
-        "baseIngredient": "licor",
+        "slug": "black-velvet",
+        "name": "Black Velvet",
+        "description": "Cerveza negra y espumante, ¿quién lo diría?.",
+        "baseIngredient": "cerveza",
         "servings": 1,
         "idealFor": [
             "noche"
         ],
         "characteristics": [
             "clásico",
-            "aromático",
-            "seco"
+            "moderno",
+            "social"
         ],
         "ingredients": [
-            "60 ml licor base",
-            "1 cubo azúcar",
-            "2 dashes bitters",
-            "hielo",
-            "piel de naranja"
+            "125 ml cerveza oscura Stout.",
+            "125 ml espumante"
         ],
         "preparation": [
-            "Disolver azúcar con bitters en el vaso.",
-            "Agregar hielo y licor.",
-            "Revolver y perfumar con naranja."
+            "Vertir cerveza en el vaso.",
+            "Rellenar con el espumante, lentamente, usando el colador o una cuchara."
         ],
         "supplies": [
-            "Vaso rocks",
-            "Cuchara de bar",
-            "Mortero o cubo de hielo"
+            "Copa flauta",
+            "Colador Hawthorne"
         ]
     },
     {
         "id": 46,
-        "slug": "licor-negroni",
-        "name": "Licor Negroni",
-        "description": "Negroni adaptado.",
-        "baseIngredient": "licor",
+        "slug": "submarino",
+        "name": "Submarino",
+        "description": "Cóctel de cerveza mundialmente conocido.",
+        "baseIngredient": "cerveza",
         "servings": 1,
         "idealFor": [
-            "aperitivo"
+            "aperitivo",
+            "compartir"
         ],
         "characteristics": [
-            "amargo",
-            "aromático",
-            "clásico"
+            "refrescante",
+            "potente",
+            "social"
         ],
         "ingredients": [
-            "30 ml licor base",
-            "30 ml campari",
-            "30 ml vermut rojo",
-            "hielo"
+            "355 ml cerveza lager",
+            "44 ml tequila blanco",
+            "1 rodaja limón (decoración)"
         ],
         "preparation": [
-            "Revolver con hielo y servir."
+            "Llenar vaso shot con tequila.",
+            "Colocar shot al revés, poniendo vaso cervecero primero hacia abajo. (Evita que el alcohol se derrame)",
+            "Vertir cerveza helada en el vaso.",
+            "Decora con rodaja de limón."
         ],
         "supplies": [
-            "Vaso mezclador de vidrio",
-            "Cuchara de bar",
-            "Colador tipo Hawthorne",
-            "Vaso rocks"
+            "Vaso pequeño (shot)",
+            "Vaso highball o cervecero"
         ]
     },
     {
         "id": 47,
-        "slug": "spritz-vino",
-        "name": "Spritz de Vino",
+        "slug": "monaco",
+        "name": "Mónaco",
         "description": "Ligero y refrescante.",
-        "baseIngredient": "vino",
+        "baseIngredient": "cerveza",
         "servings": 1,
         "idealFor": [
-            "tarde"
+            "aperitivo",
+            "compartir"
         ],
         "characteristics": [
             "refrescante",
-            "frutal",
-            "suave"
+            "simple",
+            "social"
         ],
         "ingredients": [
-            "90 ml vino blanco",
-            "60 ml soda",
-            "rodaja de limón",
-            "hielo"
+            "240 ml cerveza ámbar",
+            "120 ml soda limón o lima",
+            "½ cucharada jarabe de granadina"
         ],
         "preparation": [
-            "Armar en copa con hielo.",
-            "Agregar vino y soda.",
-            "Decorar con limón."
+            "Vertir la cerveza, la soda y el jarabe de granadina en un vaso alto.",
+            "Revolver y servir."
         ],
         "supplies": [
-            "Copa grande para vino blanco",
-            "Cuchara de bar"
+            "Vaso highball o cervecero."
         ]
     },
     {
