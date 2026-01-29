@@ -1571,30 +1571,33 @@
     },
     {
         "id": 48,
-        "slug": "vino-pipeno-cola",
-        "name": "Pipeño con Cola",
-        "description": "Preparación chilena simple.",
-        "baseIngredient": "vino",
+        "slug": "gabriela",
+        "name": "Gabriela",
+        "description": "Coctel chileno sencillo y refrescante.",
+        "baseIngredient": "pisco",
         "servings": 1,
         "idealFor": [
-            "tarde"
+            "tarde", "aperitivo"
         ],
         "characteristics": [
-            "dulce",
             "refrescante",
             "frutal"
         ],
         "ingredients": [
-            "120 ml vino pipeño",
-            "top cola",
-            "hielo"
+            "75 ml pisco",
+            "30 ml jugo de limón",
+            "30 ml goma de vainilla",
+            "½ pera packam descascarada",
+            "2 pizcas de merkén"
         ],
         "preparation": [
-            "Servir vino pipeño en vaso con hielo.",
-            "Completar con cola y revolver."
+            "En vaso mezclador macerar la pera, goma, merkén y jugo de limón.",
+            "Agregar pisco y batir por 20 segundos.",
+            "Colar doblemente sobre copa enfriada y servir."
         ],
         "supplies": [
-            "Vaso highball",
+            "Copa martini",
+            "Vaso mezclador de vidrio",
             "Cuchara de bar"
         ]
     },
@@ -1905,13 +1908,13 @@
     },
     {
         "id": 59,
-        "slug": "clericot-espumante",
-        "name": "Clericó con Espumante",
-        "description": "Frutal y festivo.",
-        "baseIngredient": "espumante",
-        "servings": 4,
+        "slug": "madras",
+        "name": "Madras",
+        "description": "Frutal y veraniego.",
+        "baseIngredient": "vodka",
+        "servings": 1,
         "idealFor": [
-            "celebración"
+            "primavera", "verano", "celebración"
         ],
         "characteristics": [
             "frutal",
@@ -1919,20 +1922,19 @@
             "dulce"
         ],
         "ingredients": [
-            "750 ml espumante",
-            "frutas a gusto",
-            "azúcar (opcional)",
-            "hielo"
+            "60 ml vodka",
+            "75 ml néctar de naranja",
+            "22 ml néctar de piña",
+            "22 ml jugo de cranberry",
+            "Media luna de naranja (decoración)",
+            "Hielo"
         ],
         "preparation": [
-            "Mezclar frutas con espumante bien frío.",
-            "Servir con hielo."
+            "Llenar vaso con hielo y agregar ingredientes según orden.",
+            "Decorar con media luna de naranja."
         ],
         "supplies": [
-            "Jarra grande",
-            "Tabla de cortar",
-            "Cuchillo",
-            "Cuchara de madera"
+            "Vaso tumbler alto"
         ]
     },
     {
@@ -2185,9 +2187,9 @@
     },
     {
         "id": 68,
-        "slug": "vermut-cerveza",
-        "name": "Vermut con Cerveza",
-        "description": "Mezcla simple para aperitivo.",
+        "slug": "adonis",
+        "name": "Adonis",
+        "description": "Cóctel aromático del siglo XIX.",
         "baseIngredient": "vermut",
         "servings": 1,
         "idealFor": [
@@ -2200,15 +2202,24 @@
         ],
         "ingredients": [
             "45 ml vermut",
-            "150 ml cerveza",
-            "hielo (opcional)"
+            "45 ml jerez",
+            "1 chorrito de Bitter de naranja",
+            "Naranja",
+            "Hielo"
         ],
         "preparation": [
-            "Mezclar y servir."
+            "Llenar vaso mezclador con hielo.",
+            "Añadir el chorro de bitter.",
+            "Añadir jerez.",
+            "Añadir vermut.",
+            "Revolver y colar en vaso rocks.",
+            "Decorar con naranja."
         ],
         "supplies": [
-            "Vaso highball o rocks",
-            "Cuchara de bar"
+            "Vaso rocks",
+            "Colador Hawthorne",
+            "Jigger",
+            "Vaso mezclador de vidrio"
         ]
     },
     {
@@ -3407,35 +3418,33 @@
     },
     {
         "id": 106,
-        "slug": "vermut-sour",
-        "name": "Vermut Sour",
-        "description": "Sour con base de vermut.",
-        "baseIngredient": "vermut",
+        "slug": "jamaican-coffee",
+        "name": "Jamaican Coffee",
+        "description": "Combinación de café con los sabores ricos y exóticos del Caribe.",
+        "baseIngredient": "ron",
         "servings": 1,
         "idealFor": [
-            "aperitivo"
+            "aperitivo", "brunch", "compartir"
         ],
         "characteristics": [
-            "cítrico",
-            "suave",
-            "aromático"
+            "café",
+            "intenso",
+            "tropical"
         ],
         "ingredients": [
-            "60 ml vermut",
-            "25 ml jugo de limón",
-            "15 ml jarabe simple",
-            "20 ml clara de huevo (opcional)"
+            "150 ml café",
+            "22 ml licor de café",
+            "30 ml ron jamaicano",
+            "15 ml licor de vainilla",
+            "Crema batida (decoración)",
+            "Nuez moscada rallada (decoración)"
         ],
         "preparation": [
-            "Agitar con hielo (dry shake si usa clara).",
-            "Colar y servir."
+            "Añadir los ingredientes en el orden indicado.",
+            "Decorar con crema batida y nuez moscada espolvoreada."
         ],
         "supplies": [
-            "Coctelera Boston",
-            "Colador Hawthorne",
-            "Jigger",
-            "Vaso para dry shake",
-            "Exprimidor de cítricos"
+            "Jigger"
         ]
     },
     {
@@ -4504,35 +4513,36 @@
     },
     {
         "id": 140,
-        "slug": "frozen-chocolate",
-        "name": "Frozen Chocolate",
-        "description": "Cóctel dulce y delicioso, ideal para postres.",
-        "baseIngredient": "baileys",
+        "slug": "merry-berry",
+        "name": "Merry Berry",
+        "description": "Cóctel que combina la elegancia del vodka con el dulce misterio del licor de café.",
+        "baseIngredient": "vodka",
         "servings": 1,
         "idealFor": [
-            "compartir",
-            "sobremesa"
+            "compartir", "aperitivo",
+            "sobremesa", "celebración"
         ],
         "characteristics": [
             "dulce",
-            "postre"
+            "refrescante", "café"
         ],
         "ingredients": [
-            "60 ml Baileys",
-            "30 ml licor de chocolate",
-            "120 ml leche",
-            "Hielo",
-            "Chocolate rallado (decoración)"
+            "40 ml vodka",
+            "20 ml licor de café",
+            "25 ml café",
+            "17.5 ml jarabe de arándano / frambuesa / mora",
+            "Moras (decoración)"
         ],
         "preparation": [
-            "Combinar en licuadora el hielo, Baileys, licor de chocolate y leche.",
-            "Licuar hasta mezcla suave y cremosa.",
-            "Servir en vaso alto y decorar con chocolate rallado."
+            "Añadir ingredientes en coctelera con hielo.",
+            "Agitar fuertemente por 10-15 segundos.",
+            "Colar en vaso frío lleno de hielo.",
+            "Decorar con moras."
         ],
         "supplies": [
-            "Vaso highball",
-            "Cuchara de bar",
-            "Jigger"
+            "Coctelera Boston",
+            "Colador Hawthorne",
+            "Hielo"
         ]
     },
     {
